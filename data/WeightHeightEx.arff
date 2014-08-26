@@ -1,0 +1,21 @@
+@relation WeightHeightEx
+
+@attribute Height numeric
+@attribute Weight numeric
+
+@data
+173,75
+160,60
+190,82
+192,99
+162,78
+165,66
+155,65
+163,58
+170,80
+172,85
+180,70
+160,60
+188,80
+190,90
+177,80
